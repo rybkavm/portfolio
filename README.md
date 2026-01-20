@@ -17,15 +17,15 @@ https://696fe5f0d2e2ea7a8dec113b--benevolent-klepon-b8f945.netlify.app/
 
 Основные разделы:
  - Обо мне
- ![alt text](image.png)
+ ![Обо мне](/imagereadme/image.png)
  - Интересы
- ![alt text](image-1.png)
+ ![Интересы](/imagereadme/image-1.png)
  - Галерея
- ![alt text](image-2.png)
+ ![Галерея](/imagereadme/image-2.png)
  - Мини-игры
- ![alt text](image-3.png)
+ ![Мини-игры](/imagereadme/image-3.png)
  - Матрица
- ![alt text](image-4.png)
+ ![Матрица](/imagereadme/image-4.png)
 
 
 Технологии:
