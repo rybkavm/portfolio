@@ -2,7 +2,7 @@ Victor Rybka
 Персональный сайт-портфолио фронтенд-разработчика с интерактивными играми и современными анимациями.
 
 Ссылка:
-https://696fe5f0d2e2ea7a8dec113b--benevolent-klepon-b8f945.netlify.app/
+https://vizitka-porfolio-rybka.netlify.app/
 
 Стек: HTML5, CSS3, JavaScript, TypeScript
 
