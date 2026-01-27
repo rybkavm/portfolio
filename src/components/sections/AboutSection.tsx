@@ -54,7 +54,7 @@ export const AboutSection = () => {
                   Я <span className="gradient-text">Виктор Рыбка</span>
                 </h1>
                 <p className="text-xl text-muted-foreground mb-6 max-w-lg">
-                  Frontend-разработчик с страстью к созданию интерактивных и 
+                  Frontend-разработчик со страстью к созданию интерактивных и 
                   визуально впечатляющих веб-приложений
                 </p>
                 
